@@ -1,0 +1,3 @@
+2020-07-30 15:21:17,128 - bot - INFO - Yeah am running!
+2020-07-30 15:21:21,355 - bot - INFO - Searching: english
+2020-07-30 15:22:39,162 - telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'ConnectTimeoutError(<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x0000017663EA2A60>, 'Connection to api.telegram.org timed out. (connect timeout=5.0)')': /bot1130294782:AAGB9Hkk4zmXKwcVnxwLP929rzDUYvOgkI4/getUpdates
